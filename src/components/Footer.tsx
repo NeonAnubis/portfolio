@@ -80,7 +80,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-border/50">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-muted-foreground text-sm flex items-center gap-2">
-              © {currentYear} Vasyl Anton. Made with{" "}
+              © {currentYear} Anton Sobolevskyi. Made with{" "}
               <Heart className="w-4 h-4 text-primary fill-primary" /> and
               creativity.
             </p>
