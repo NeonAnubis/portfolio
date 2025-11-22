@@ -21,7 +21,9 @@ const Hero = () => {
               <h2 className="text-primary text-lg font-semibold tracking-wide">
                 Hello, I'm
               </h2>
-              <h1 className="text-5xl md:text-7xl font-bold">Vasyl Anton</h1>
+              <h1 className="text-5xl md:text-7xl font-bold">
+                Anton Sobolevskyi
+              </h1>
               <p className="text-2xl md:text-3xl font-light">
                 AI-Powered Web & Mobile Specialist
               </p>
