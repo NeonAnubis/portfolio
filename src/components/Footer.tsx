@@ -9,7 +9,9 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold gradient-text">Vasyl Anton</h3>
+            <h3 className="text-2xl font-bold gradient-text">
+              Anton Sobolevskyi
+            </h3>
             <p className="text-muted-foreground text-sm">
               AI-Powered Web & Mobile Specialist creating innovative digital
               experiences.

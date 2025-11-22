@@ -85,7 +85,7 @@ const Hero = () => {
               <div className="relative glass-card p-2 rounded-2xl">
                 <img
                   src={profilePhoto}
-                  alt="Vasyl Anton"
+                  alt="Anton Sobolevskyi"
                   className="w-full max-w-md rounded-xl object-cover aspect-square"
                 />
               </div>
