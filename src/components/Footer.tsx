@@ -9,9 +9,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold gradient-text">
-              Anton Sobolevskyi
-            </h3>
+            <h3 className="text-2xl font-bold gradient-text">Vasyl Anton</h3>
             <p className="text-muted-foreground text-sm">
               AI-Powered Web & Mobile Specialist creating innovative digital
               experiences.
@@ -80,7 +78,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-border/50">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-muted-foreground text-sm flex items-center gap-2">
-              © {currentYear} Anton Sobolevskyi. Made with{" "}
+              © {currentYear} Vasyl Anton. Made with{" "}
               <Heart className="w-4 h-4 text-primary fill-primary" /> and
               creativity.
             </p>

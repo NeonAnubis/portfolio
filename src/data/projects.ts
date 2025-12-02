@@ -153,10 +153,43 @@ export const projects: Project[] = [
       "A modern platform designed to enhance language learning through personalized teaching tools and AI-powered assistance. Our platform adapts to each student's needs, offering a personalized learning experience with cutting-edge tools.",
     skills: ["Next.js", "Supabase", "OpenAI", "Prisma", "Tailwind CSS"],
     image: "/web/ideal-adapt/1.png",
-    images: ["/web/ideal-adapt/2.png", "/web/ideal-adapt/3.png"],
+    images: [
+      "/web/ideal-adapt/2.jpg",
+      "/web/ideal-adapt/3.jpg",
+      "/web/ideal-adapt/4.png",
+      "/web/ideal-adapt/5.png",
+      "/web/ideal-adapt/6.jpg",
+      "/web/ideal-adapt/7.jpg",
+      "/web/ideal-adapt/8.jpg",
+      "/web/ideal-adapt/9.jpg",
+      "/web/ideal-adapt/10.jpg",
+      "/web/ideal-adapt/11.jpg",
+      "/web/ideal-adapt/12.jpg",
+      "/web/ideal-adapt/13.jpg",
+    ],
     liveLink: "https://ideal-adapt.vercel.app",
   },
 
+  {
+    id: "web-9",
+    title: "MaryRuth Organics",
+    category: "web",
+    shortDescription:
+      "I offer organic vitamins and supplements. Our extensive and well-organized catalog features filters based on product type, age, and health needs. We also offer integrated subscriptions and bundled products.",
+    fullDescription:
+      "I offer organic vitamins and supplements. Our extensive and well-organized catalog features filters based on product type, age, and health needs. We also offer integrated subscriptions and bundled products. MaryRuth was inspired to help empower others to take wellness into their own hands after seeing how health issues personally impacted her loved ones. As a health educator, nutritional consultant, culinary chef, and mom to 4 children, MaryRuth was driven to formulate a delicious, easy-to-take multivitamin with quality ingredients for her clients and family. This led to the creation of what is still one of our #1 best-selling liquid multivitamins as well as a growing product line of supplements for all life stages.As a mom of 4 young children, I know that there are many choices when it comes to your and your family’s health. That’s why I started MaryRuth’s: to help others learn how to support their own health by creating morning and nighttime routines to move forward every day. - MaryRuth",
+    skills: ["Shopify", "CSS", "Javascript", "Responsive Design"],
+    image: "/web/MaryRuth_Organics/1.png",
+    images: [
+      "/web/MaryRuth_Organics/2.png",
+      "/web/MaryRuth_Organics/3.png",
+      "/web/MaryRuth_Organics/4.png",
+      "/web/MaryRuth_Organics/5.png",
+      "/web/MaryRuth_Organics/6.png",
+      "/web/MaryRuth_Organics/7.png",
+    ],
+    liveLink: "https://www.maryruthorganics.com/",
+  },
   // Mobile Projects
   {
     id: "mobile-1",

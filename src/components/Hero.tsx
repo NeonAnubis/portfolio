@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import profilePhoto from "@/assets/me.png";
+import profilePhoto from "@/assets/cjh2.png";
 import { Github, Linkedin, Mail } from "lucide-react";
 
 const Hero = () => {
@@ -21,9 +21,7 @@ const Hero = () => {
               <h2 className="text-primary text-lg font-semibold tracking-wide">
                 Hello, I'm
               </h2>
-              <h1 className="text-5xl md:text-7xl font-bold">
-                Anton Sobolevskyi
-              </h1>
+              <h1 className="text-5xl md:text-7xl font-bold">Vasyl Anton</h1>
               <p className="text-2xl md:text-3xl font-light">
                 AI-Powered Web & Mobile Specialist
               </p>
@@ -87,7 +85,7 @@ const Hero = () => {
               <div className="relative glass-card p-2 rounded-2xl">
                 <img
                   src={profilePhoto}
-                  alt="Anton Sobolevskyi"
+                  alt="Vasyl Anton"
                   className="w-full max-w-md rounded-xl object-cover aspect-square"
                 />
               </div>
