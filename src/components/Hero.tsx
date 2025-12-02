@@ -28,12 +28,49 @@ const Hero = () => {
             </div>
 
             <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
-              Crafting innovative digital experiences through cutting-edge web
-              development, mobile applications, and artificial intelligence
-              solutions. Passionate about transforming ideas into reality with
-              modern technologies.
+              I'm a AI-Powered Web & Mobile Specialist who turns ideas into
+              intelligent application that work smarter, not harder. If you need
+              an AI-powered product that stands out whether it’s a mobile app, a
+              SaaS platform, or automation that saves time, I can make it
+              happen.
             </p>
-
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              ✨ I focus on real results scalable, secure, and production-ready
+              applications. Even though I’m just starting on Upwork, I bring 5+
+              years of building AI-driven systems from speech recognition and
+              chatbots to viral video automation and healthcare platforms.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              ⚙️ What I deliver:
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              - AI-Powered Web & Mobile Apps : React, Next.js, Flutter, React
+              Native(Expo) and Python backends with AI features built-in.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              - Intelligent Automation : Chatbots, voice agents, and smart
+              workflows using LLMs, Whisper, and custom models.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              - End-to-End Development : From wireframes to deployment with
+              APIs, databases, and cloud integration.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              💡 Why clients choose me:
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              - Impact over output : I design solutions that move metrics, not
+              just write code.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              - Secure & reliable : Data protection, clean architecture, and
+              strong performance come first. - Clear collaboration : Transparent
+              communication, quick response times, and milestone-based delivery.
+            </p>
+            <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
+              - Clear collaboration : Transparent communication, quick response
+              times, and milestone-based delivery.
+            </p>
             <div className="flex gap-4 pt-4">
               <Button
                 size="lg"
