@@ -35,9 +35,7 @@ const Hero = () => {
               happen.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
-              ✨ I focus on real results scalable, secure, and production-ready
-              applications. Even though I’m just starting on Upwork, I bring 5+
-              years of building AI-driven systems from speech recognition and
+              ✨ I bring 5+ years of building AI-driven systems from speech recognition and
               chatbots to viral video automation and healthcare platforms.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
